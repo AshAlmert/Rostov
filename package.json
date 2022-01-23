@@ -1,0 +1,25 @@
+{
+  "name": "rostov",
+  "version": "1.0.0",
+  "description": "Сайт для ремонта в Ростове-на-дону",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshAlmert/Rostov.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshAlmert/Rostov/issues"
+  },
+  "homepage": "https://github.com/AshAlmert/Rostov#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}

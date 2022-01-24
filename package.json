@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/AshAlmert/Rostov#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
   },
   "dependencies": {
     "browser-sync": "^2.27.7",

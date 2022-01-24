@@ -5,7 +5,7 @@ const rename = require('gulp-rename');
 const sass =  require('gulp-sass')
 
  function bs() {
-    serveSass
+    serveSass();
     browserSync.init({
         server: {
             baseDir: "./"

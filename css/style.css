@@ -370,7 +370,7 @@ template {
 }
 .button--outline {
   border: 1px solid #fff;
-  background-color: transperent;
+  background-color: transparent;
   color: #fff;
 }
 
